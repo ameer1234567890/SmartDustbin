@@ -2,8 +2,8 @@
 A dustbin that opens itself for you
 
 #### Pinout
-| Arduino Nano | Distance Sensor (HC-SR04) | Servo | 
-| ------------ | ------------------------- | ----- | 
+| Arduino Nano | Distance Sensor (HC-SR04) | Servo (SG90) | 
+| ------------ | ------------------------- | ------------ | 
 | VCC | VCC | VCC | 
 | GND | GND | GND | 
 | D10 | TRIG |  | 
