@@ -9,3 +9,6 @@ A dustbin that opens itself for you
 | D10 | TRIG |  | 
 | D11 | ECHO |  | 
 | D12 |  | SIG | 
+
+#### Pictures
+* https://www.instagram.com/p/BzntORuAyQC/
